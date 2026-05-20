@@ -6,11 +6,11 @@ Replication code for "Level-Transition Asymmetry in the Cross-Section of Option 
 code/
 ├── src/                  library (NOLT, baselines, training, metrics, synthetic)
 ├── 01_data/              Bloomberg panel build, quality, freeze, PC1, BSM theorem
-└── 02_experiments/       paper experiments (Sec. 3-5, Appendix)
+└── 02_experiments/       paper experiments
 
 data_raw/
 ├── Bloomberg/            SPX index option Excel (spx_1.xlsx, spx_2.xlsx)
-└── synthetic/            Heston / Bates / BSM panels used in the paper
+└── synthetic/            Heston / Bates / BSM panels 
 ```
 
 ## Run
